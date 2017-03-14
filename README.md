@@ -26,6 +26,10 @@ You can provide a comparator to the erroneously named `heapFactory`. It defaults
 
 #Running
 ```
+npm install functionalpriorityqueue
+```
+and
+```
 npm install
 ```
 and
