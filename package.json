@@ -1,0 +1,33 @@
+{
+  "name": "functionalpriorityqueue",
+  "version": "1.0.0",
+  "description": "A functional implementation of a bheap",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wi-ski/FunctionalPriorityQueue.git"
+  },
+  "keywords": [
+    "functional",
+    "javascript",
+    "bheap",
+    "priority",
+    "queue",
+    "="
+  ],
+  "author": "wi-ski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wi-ski/FunctionalPriorityQueue/issues"
+  },
+  "homepage": "https://github.com/wi-ski/FunctionalPriorityQueue#readme",
+  "dependencies": {
+    "ava": "^0.18.2"
+  }
+}
