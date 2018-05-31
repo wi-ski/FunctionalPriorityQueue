@@ -1,4 +1,4 @@
-#A functional heap-based priority queue utility written in Javascript
+# A functional heap-based priority queue utility written in Javascript
 
 This is a heap that I built for a recent set of interviews and thought they might come in handy for someone in the future.
 I've been trying to get my mind in the habit of thinking more functionally and this was a fun discipline project.
@@ -24,7 +24,7 @@ const [nextHeap,poppedValue] = heapPop(heap5); //returns [ [ 1, 3, 2, 5, 4 ], 0 
 
 You can provide a comparator to the erroneously named `heapFactory`. It defaults to:`(child, parent) => (parent > child);`
 
-#Running
+# Running
 ```
 npm install functionalpriorityqueue
 ```
